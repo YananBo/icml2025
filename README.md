@@ -4,7 +4,6 @@
 This repository is for the ICML 2025 conference. It contains resources, papers, and other materials related to the conference.
 
 ## Repository Details
-- **Owner:** [YananBo](https://github.com/YananBo)
 - **Default Branch:** master
 - **Visibility:** Public
 - **Created At:** March 29, 2025
@@ -27,5 +26,3 @@ This repository is for the ICML 2025 conference. It contains resources, papers, 
 ## License
 This project does not have a license yet.
 
-## Contact
-For any questions or inquiries, please contact the repository owner [YananBo](https://github.com/YananBo).
